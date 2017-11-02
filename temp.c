@@ -2,10 +2,10 @@
 
 /*wpisz zestawienie temperatur Farenheita-Celsjusza
 dla fahr = 0, 20, ..., 300; wersja zmiennopozycyjna */
-main()
+int main()
 {
 	float fahr, celsius;
-	int lower, upper, step,
+	int lower, upper, step;
 	
 	lower = 0; /* dolna granica temperatur */
 	upper = 300; /* górna granica */
