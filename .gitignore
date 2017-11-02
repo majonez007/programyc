@@ -1,2 +1,3 @@
 # ignoruj wszystkie pliki wynikowe kompilacji
 *.o
+*.swp
